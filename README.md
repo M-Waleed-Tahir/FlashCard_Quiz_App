@@ -1,6 +1,6 @@
-# flashcard_quiz_app
+# CodeAplha_Internship
 
-A new Flutter project.
+CodeAplha Task # 02
 
 ## Getting Started
 
