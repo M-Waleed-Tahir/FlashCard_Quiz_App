@@ -1,4 +1,4 @@
-# CodeAplha_Internship
+# Flashcard Quiz App
 
 CodeAplha Task # 02
 
